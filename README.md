@@ -6,7 +6,7 @@ Help Version: 1.0
 Locale: en-US
 ---
 
-**Originally authored by Shay Levy (c) 2009.** 
+*Originally authored by Shay Levy (c) 2009.*
 
 # PSTerminalServices Module
 ## Description
